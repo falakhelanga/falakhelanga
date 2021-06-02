@@ -22,9 +22,9 @@ const falakhe = {
     mobileApp: {
       native: ["Android Development", "Ios Development", "React-native"],
     },
-    devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-    databases: ["mongo", "MySql", "sqlite"],
-    misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"],
+    devOps: ["AWS"],
+    databases: ["mongodb","dynamodb", "MySql", "sqlite"],
+    misc: ["Firebase", "Socket.IO", "axios"],
   },
   architecture: ["Serverless Architecture", "Single page applications"],
   currentFocus: "Web App Development",
